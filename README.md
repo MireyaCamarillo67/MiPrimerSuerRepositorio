@@ -7,3 +7,6 @@
     git commit -m "Descripcion del cambio que hiciste en el archivo README.md"
     git push
 ```
+
+# Nota:
+Los cambios que se realicen al modificar el archivo se reinicia la pagina.
